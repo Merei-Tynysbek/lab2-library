@@ -1,5 +1,5 @@
 # Joba: Kitapxana
-TITLE = "Kitapxana"
+TITLE = "Kitapxana (nuska B)"
 VERSION = "1.0"
 
 def main():
